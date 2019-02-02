@@ -1,7 +1,7 @@
 ## <p align="center"> ZELNODE DIGITAL OCEAN VPS GUIDE </p>
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://imgur.com/m3CL1xR/460/300">
 </p> 
 
 ## ZelNode Setup Guide (DigitalOcean Ubuntu 16.04)
@@ -26,7 +26,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ## Section A: Creating your DigitalOcean VPS
 ***Step 1***
-* Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit good for 2 months)
+* Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit that's good for 2 months)
 ***
 
 ***Step 2***
@@ -45,11 +45,12 @@ If you require further assistance contact the support team on [Discord](https://
 ![Example-OS](https://imgur.com/sVaawzt.png) ![Example-OS](https://imgur.com/1hAuT2T.png) ![Example-OS](https://imgur.com/Yc3Wm7q.png)
 ***
 
-***Step 4*** 
+***Step 5***
+
 ![Example-Location](https://imgur.com/hjmZiaf.png)
 ***
 
-***Step 7***
+***Step 6***
 ![Example-OS](https://imgur.com/qlYDSVn.png)
 ***
 
@@ -61,31 +62,33 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 2***
-* Select the correct installer depending upon your operating system. Then follow the install instructions. 
+* Select the correct installer depending upon your operating system, and follow the install instructions 
 
 ![Example-Putty Installer](https://imgur.com/wqfWyvg.png)
 ***
 
-
 ## Section C: Connecting to the VPS & Installing the ZelNode Script via Putty
 
 ***Step 1***
-* Copy your VPS IP (located within Droplet tab) 
+* Copy your VPS IP (located within Droplets tab) 
 ![Example-DO](https://imgur.com/8YWMNxW.png)
 ***
 
 ***Step 2***
-* Open the Putty application and fill in the "Host Name" box with the IP address of your VPS.
+* Open the Putty terminal and fill in the "Host Name" box with the IP address of your VPS
+
 ![Example-PuttyLogin](https://imgur.com/gMkd6fs.png)
 ***
 
 ***Step 3***
-* Once you have hit enter it will open a security alert (click yes).
+* Once you have hit enter it will open a security alert (click yes)
+
 ![Example-RootPassEnter](https://imgur.com/z0N2AMT.png)
 ***
 
 ***Step 4***
-* Type "root" as the login/username.
+* Type "root" as the login/username
+
 ![Example-Root](https://imgur.com/S0fcGzm.png)
 ***
 
@@ -94,12 +97,14 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 6*** 
-* Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter).
+* Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter)
+
 ![Example-RootPassEnter](https://imgur.com/65jWobg.png)
 ***
 
 ***Step 7*** 
-* Change password for root (UNIX password same as Step 5).
+* Change password for root (UNIX password same as Step 5)
+
 ![Example-RootPassEnter](https://imgur.com/vSXtaaG.png)
 ***
 
@@ -107,7 +112,7 @@ If you require further assistance contact the support team on [Discord](https://
 * Adduser to secure your VPS, by adding a new username so you aren't running everything as root.  
 * Run the command below and use a username that you want associated with this server ***('whodatbamf1' is an example, you need to generate your own username).***  
 
-`adduser whodatbamf1`
+`adduser YOURUSERNAME`
 
 ![Example-Bash](https://imgur.com/HJwb8tT.png)
 
@@ -123,11 +128,11 @@ If you require further assistance contact the support team on [Discord](https://
 
 ***Step 10***
 
-* The final step is granting sudo permissions for your adduser.  Run the command below to activate this setting ***('nullexnav1' is an example, you need to use your username).***
+* The final step is granting sudo permissions for your adduser, and running the command below to activate it***('whodatbamf1' is an example, you need to use your username)***
 
-`usermod -aG sudo whodatbamf1`
+`usermod -aG sudo YOURUSERNAME`
 
-* Now you will close your Putty terminal and log back with your new username and password that we made above.  
+* Now you will close your Putty terminal and log back with your new username and password that we made above 
 
 ![Example-Bash](https://imgur.com/qYIK75u.png)
 
@@ -141,11 +146,11 @@ If you require further assistance contact the support team on [Discord](https://
 ***
 
 ***Step 12***
-* Sit back and wait for the install (this will take a few mins).  You will need a txt file to save info from Step 11.
+* Sit back and wait for the install (this will take a few mins), and have a txt file ready to save info from Step 11
 ***
 
 ***Step 13***
-* After the install is complete you will need to save this info for your controller wallet.  
+* After the install is complete you will need to save this info for your controller wallet
 ![Example-installing](https://imgur.com/95iQQB2.png)
 ***
 
