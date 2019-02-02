@@ -5,7 +5,7 @@
 </p>
 
 ***
-**This guide will assist you in setting up a ZelNode on a DigitalOcean VPS running Ubuntu 16.04.5 x 64 (Use at your own risk)
+**This guide will assist you in setting up a ZelNode on a DigitalOcean VPS running Ubuntu 16.04.5 x 64 (Use at your own risk)**
 
 **If you require further assistance contact the support team on [Discord](https://discord.gg/szN9yZ) or [Telegram English](http://t.me/zelcash) / [Chinese](http://t.me/zelcashcn) / [Russian](http://t.me/zelcashru)
 
