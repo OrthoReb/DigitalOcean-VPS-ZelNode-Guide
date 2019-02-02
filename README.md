@@ -1,7 +1,7 @@
 ## <p align="center"> ZELNODE DIGITAL OCEAN VPS GUIDE </p>
 
 <p align="center">
-  <img width="660" height="200" src="https://imgur.com/m3CL1xR.png/660/200">
+  <img width="660" height="200" src="https://imgur.com/nViX296.png/660/200">
 </p> 
 
 ## ZelNode Setup Guide (DigitalOcean Ubuntu 16.04)
