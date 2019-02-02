@@ -151,6 +151,7 @@
 
 ***Step 13***
 * After the install is complete you will need to save this info for your controller wallet
+
 ![Example-installing](https://imgur.com/95iQQB2.png)
 ***
 
