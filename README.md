@@ -26,7 +26,7 @@ If you require further assistance contact the support team on [Discord](https://
 
 ## Section A: Creating your DigitalOcean VPS
 ***Step 1***
-* Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) ([referral link](https://m.do.co/c/c9c22684c5db)to receive a $100 credit good for 2 months)
+* Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (user this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit good for 2 months)
 ***
 
 ***Step 2***
