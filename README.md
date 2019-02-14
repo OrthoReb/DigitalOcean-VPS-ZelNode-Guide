@@ -64,7 +64,7 @@
 ***Step 2***
 * Select the correct installer depending upon your operating system, and follow the install instructions 
 
-![Example-Putty Installer](https://imgur.com/wqfWyvg.png)
+![Example-Putty Installer](https://imgur.com/U7eaNSh.png)
 ***
 
 ## Section C: Connecting to the VPS & Installing the ZelNode Script via Putty
