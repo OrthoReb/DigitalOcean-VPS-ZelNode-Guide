@@ -89,7 +89,7 @@
 ***Step 4***
 * Type "root" as the login/username
 
-![Example-Root](https://imgur.com/S0fcGzm.png)
+![Example-Root](https://imgur.com/DumQVJ5.png)
 ***
 
 ***Step 5***
@@ -99,7 +99,7 @@
 ***Step 6*** 
 * Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter)
 
-![Example-RootPassEnter](https://imgur.com/65jWobg.png)
+![Example-RootPassEnter](https://imgur.com/TqeHV2C.png)
 ***
 
 ***Step 7*** 
