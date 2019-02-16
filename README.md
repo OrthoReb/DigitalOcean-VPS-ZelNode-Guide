@@ -229,7 +229,7 @@
 ***
 
 ***Step 17***
-* Enter your private key that was generated in from your ZelCore wallet (Step 15)
+* Enter your private key that was generated in your ZelCore wallet (Step 15)
 
 ![Example-installing](https://imgur.com/WFXTDpg.png)
 ***
