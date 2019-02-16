@@ -272,6 +272,10 @@
 ***(IT WILL SHOW UP AS 'PRE_ENABLED' UNTIL THERE ARE 15 CONFIRMATIONS)***
 
 ![Example-installing](https://imgur.com/SkGqa6D.png)
+***
 
+***CONGRATULATIONS AND THANK YOU FOR BEING A PART OF THE COMMUNITY!!!!!!!!!!!!!***
+
+***
 
 
