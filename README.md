@@ -181,7 +181,7 @@
 
 ***Step 10***
 
-* Grant sudo permissions for your adduser by running the command below to activate it***('whodatbamf1' is an example, you need to use your username)***
+* Grant sudo permissions for your adduser by running the command below to activate it
 
 `usermod -aG sudo YOURUSERNAME`
 
@@ -190,8 +190,6 @@
 `su YOURUSERNAME`
 
 ![Example-Bash](https://imgur.com/qYIK75u.png)
-
-* ***KEEP YOUR NEW USERNAME AND PASSWORD IN A SAFE PLACE.  THIS WILL BE HOW YOU LOG IN FROM NOW ON.***
 ***
 
 ***Step 11***
@@ -233,7 +231,7 @@
 ***Step 17***
 * Enter your private key that was generated in from your ZelCore wallet (Step 15)
 
-![Example-installing](https://imgur.com/95iQQB2.png)
+![Example-installing](https://imgur.com/WFXTDpg.png)
 ***
 
 ***Step 18***
@@ -241,19 +239,23 @@
 
 ***Step 19***
 * Go to the ZelCash block explorer `https://testnetnodes.zel.cash/blocks`
+
 ![Example-installing](https://imgur.com/liBNF5O.png)
 ***
 
 ***Step 20***
 * Press CTRL-C in your VPS when the blocks match explorer in Step 19
+
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
 
 ***Step 21***
 * Activate your ZelNode
+
 ![Example-installing](https://imgur.com/xyPmofR.png)
 
 * Successfully started 
+
 ![Example-installing](https://imgur.com/GGpcyFA.png)
 
 ***(IT WILL TAKE 15 CONFIRMATIONS FOR YOUR ZELNODE TO SHOW UP IN 'MY ZELNODES')***
