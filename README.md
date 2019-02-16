@@ -223,33 +223,27 @@
 ***
 
 ***Step 16***
-* Confirm IP and enter 'N' that you're not running for mainnet
-
-![Example-installing](https://imgur.com/GEftC66.png)
-***
-
-***Step 17***
-* Enter your private key that was generated in your ZelCore wallet (Step 15)
+* Confirm IP, enter 'N' that you're not running for mainnet and enter private key from Step 15
 
 ![Example-installing](https://imgur.com/WFXTDpg.png)
 ***
 
-***Step 18***
+***Step 17***
 * Proceed to the next step while you wait for the install (this will take a few mins)
 
-***Step 19***
+***Step 18***
 * Go to the ZelCash block explorer `https://testnetnodes.zel.cash/blocks`
 
 ![Example-installing](https://imgur.com/liBNF5O.png)
 ***
 
-***Step 20***
+***Step 19***
 * Press CTRL-C in your VPS when the blocks match explorer in Step 19
 
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
 
-***Step 21***
+***Step 20***
 * Activate your ZelNode
 
 ![Example-installing](https://imgur.com/xyPmofR.png)
@@ -261,7 +255,7 @@
 ***(IT WILL TAKE 15 CONFIRMATIONS FOR YOUR ZELNODE TO SHOW UP IN 'MY ZELNODES')***
 ***
 
-***Step 22***
+***Step 21***
 * Run the following command in Putty to confirm that your ZelNode is showing 'Status 4'
 
 `sudo zelcash-cli getzelnodestatus`
