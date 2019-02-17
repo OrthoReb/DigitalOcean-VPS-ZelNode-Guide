@@ -248,9 +248,10 @@
 ![Example-installing](https://imgur.com/vuMGJ1s.png)
 ***
 
-## Section E : Connecting and Starting ZelNode (**ZelCore and VPS)
+## Section E : Connecting and Starting ZelNode (ZelCore and VPS)
 
 ***Step 1 (ZelCore)*** 
+***
 
 * **Go back to your ZelCore wallet and enter your VPS IP address
 
