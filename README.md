@@ -223,11 +223,11 @@
 
 ***Step 10***
 
-* **Grant sudo permissions for your adduser by running the command below to activate it
+* **Grant sudo permissions for your adduser by running the command below to activate it**
 
 `usermod -aG sudo YOURUSERNAME`
 
-* **Switch to your new adduser with the following command
+* **Switch to your new adduser with the following command**
 
 `su YOURUSERNAME`
 
