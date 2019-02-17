@@ -27,49 +27,55 @@
 
 ## Section A: Preparing your ZelCore wallet
 ***Step 1***
-* Launch full node
+* Open your ZelCore wallet and choose 'Test Coin' 
+
+![Example-OS](https://imgur.com/kCb62vH.png)
+***
+
+***Step 2***
+* Go into tools after wallet is 100% synced
 
 ![Example-OS](https://imgur.com/YTUksqm.png)
 ![Example-OS](https://imgur.com/E3NbrdO.png)
 ***
 
-***Step 2***
+***Step 3***
 * Go into Tools after wallet is 100% synced
 
 ![Example-OS](https://imgur.com/cCReOTt.png)
 ***
 
-***Step 3***
+***Step 4***
 * Open ZelNodes Management
 
 ![Example-OS](https://imgur.com/ApVw4AU.png)
 ***
 
-***Step 4***
+***Step 5***
 * Setup ZelNodes
 
 ![Example-OS](https://imgur.com/eGZlrRC.png)
 ***
 
-***Step 5***
+***Step 6***
 * Backup addresses
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
 ***
 
-***Step 6***
+***Step 7***
 * Set automatic logout to never
 
 ![Example-OS](https://imgur.com/g8niH0e.png)
 ***
 
-***Step 7***
+***Step 8***
 * Continue to the next step after your zelcash.conf info is generated
 
 ![Example-OS](https://imgur.com/RTfsbRM.png)
 ***
 
-***Step 8***
+***Step 9***
 * Choose which type of ZelNode you are going to run
 
 ![Example-OS](https://imgur.com/Q3a4MPV.png)
