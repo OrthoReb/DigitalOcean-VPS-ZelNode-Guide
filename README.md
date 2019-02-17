@@ -33,9 +33,12 @@
 ***
 
 ***Step 2***
-* Go into tools after wallet is 100% synced
+* Click on 'Full Node' and then 'Launch Full Node'
 
 ![Example-OS](https://imgur.com/YTUksqm.png)
+
+* 'Launch Test Coin' when prompted 
+
 ![Example-OS](https://imgur.com/E3NbrdO.png)
 ***
 
