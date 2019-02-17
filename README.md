@@ -315,7 +315,7 @@
 
 ***Step 9***
 
-* **Run the following command in VPS to confirm that your ZelNode is showing 'Status 4'**
+* **Run the following command in VPS to confirm that your ZelNode is showing 'Status 4' (If VPS does not show successfully started, wait 5 minutes and run the command again. Repeat if necesary)**
 
 `sudo zelcash-cli getzelnodestatus`
 
