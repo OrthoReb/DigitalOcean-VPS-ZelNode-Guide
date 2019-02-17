@@ -12,7 +12,7 @@
 ***
 ## Requirements
 1) **ZEL Collateral (10K Basic / 25K Super / 100K BAMF)**
-2) **VPS running Linux Ubuntu 16.04** (benchmark requirements can't be guranteed for servers that the team hasn't tested)
+2) **VPS running Linux Ubuntu 18.04** (benchmark requirements can't be guranteed for servers that the team hasn't tested)
 3) **Controller wallet (ZelCore or ZelCash Swing Wallet)**
 4) **SSH client such as [Putty](https://www.putty.org/)**
 ***
@@ -88,8 +88,8 @@
 ***
 
 ***Step 3***
-* Choose server type: Ubuntu 16.04
-![Example-OS](https://imgur.com/aRpRv7X.png)
+* Choose server type: Ubuntu 18.04
+![Example-OS](https://imgur.com/4hM9ugU.png)
 ***
 
 ***Step 4***
