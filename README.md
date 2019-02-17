@@ -43,16 +43,16 @@
 ***
 
 ***Step 3***
-* **Select 'Full Node'**
+* **'Full Node'**
 
 ![Example-OS](https://imgur.com/CXLLEth.png)
 
 ***
 
 ***Step 4***
-* **Select 'Launch Full Node'**
+* **'Launch Full Node'**
 
-![Example-OS](https://imgur.com/CXLLEth.png)
+![Example-OS](https://imgur.com/EvEj6H2.png)
 
 ***
 
