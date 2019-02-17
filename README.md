@@ -67,7 +67,7 @@
 ***Step 6***
 * **Go into 'Tools' after wallet is 100% synced**
 
-![Example-OS](https://imgur.com/cCReOTt.png)
+![Example-OS](https://imgur.com/uvqjVZ6.png)
 
 ***
 
