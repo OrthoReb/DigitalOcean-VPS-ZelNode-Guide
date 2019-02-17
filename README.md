@@ -27,7 +27,7 @@
 
 ## Section A: Preparing ZelCore Wallet
 ***Step 1***
-* **Open your ZelCore wallet and choose 'Test Coin'** 
+* **Open your ZelCore wallet and choose 'Test Coin' (Click My Assets and add Test Coin if not already displayed in Portfolio screen)**
 
 ![Example-OS](https://imgur.com/kCb62vH.png)
 
