@@ -14,8 +14,8 @@
 ***
 ## Requirements
 1) **ZEL Collateral (10K Basic / 25K Super / 100K BAMF)**
-2) **VPS running Linux Ubuntu 18.04 (benchmark requirements can't be guranteed for servers that the team hasn't tested)**
-3) **Controller wallet (ZelCore or ZelCash Swing Wallet)**
+2) **Controller wallet (ZelCore or ZelCash Swing Wallet)**
+3) **VPS running Linux Ubuntu 18.04 (benchmark requirements can't be guranteed for servers that the team hasn't tested)**
 4) **SSH client such as [Putty](https://www.putty.org/)**
 ***
 ## Contents
@@ -28,71 +28,78 @@
 ***
 
 ## Section A: Preparing ZelCore Wallet
-***Step 1***
-* **Open your ZelCore wallet and choose 'Test Coin' (Click 'My Assets' and add 'Test Coin' if not already displayed in Portfolio screen)**
+***Step 1 (if necessary)***
+* **Download the current ZelCore based on your OS by clicking ![here](https://zelcore.io/#download)**
+
+![Example-OS](https://imgur.com/u1cZQd9.png)
+
+***
+
+***Step 2***
+* **Open your ZelCore wallet and choose 'ZelCash' (Click 'My Assets' and add 'ZelCash' if not already displayed in 'Portfolio' screen)**
 
 ![Example-OS](https://imgur.com/kCb62vH.png)
 
 ***
 
-***Step 2***
+***Step 3***
 * **Click on 'Full Node' and then 'Launch Full Node'**
 
 ![Example-OS](https://imgur.com/YTUksqm.png)
 
 ***
 
-***Step 3***
+***Step 4***
 
-* **'Launch Test Coin' when prompted** 
+* **'Launch ZelCash' when prompted** 
 
 ![Example-OS](https://imgur.com/E3NbrdO.png)
 
 ***
 
-***Step 4***
+***Step 5***
 * **Go into 'Tools' after wallet is 100% synced**
 
 ![Example-OS](https://imgur.com/cCReOTt.png)
 
 ***
 
-***Step 5***
+***Step 6***
 * **Open ZelNodes Management**
 
 ![Example-OS](https://imgur.com/ApVw4AU.png)
 
 ***
 
-***Step 6***
+***Step 7***
 * **Setup ZelNodes**
 
 ![Example-OS](https://imgur.com/eGZlrRC.png)
 
 ***
 
-***Step 7***
+***Step 8***
 * **'Backup all addresses' (use a text file to save info, and store in multiple secure locations)**
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
 
 ***
 
-***Step 8***
+***Step 9***
 * **Set automatic logout to 'Never'**
 
 ![Example-OS](https://imgur.com/g8niH0e.png)
 
 ***
 
-***Step 9***
+***Step 10***
 * **Continue to the next step after zelcash.conf info is generated**
 
 ![Example-OS](https://imgur.com/RTfsbRM.png)
 
 ***
 
-***Step 10***
+***Step 11***
 * **Choose which type of ZelNode you are going to set up**
 
 ![Example-OS](https://imgur.com/Q3a4MPV.png)
