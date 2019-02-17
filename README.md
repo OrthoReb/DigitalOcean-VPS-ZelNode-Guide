@@ -38,7 +38,7 @@
 ***Step 2***
 * **Open your ZelCore wallet and choose 'ZelCash' (Click 'My Assets' and add 'ZelCash' if not already displayed in 'Portfolio' screen)**
 
-![Example-OS](https://imgur.com/kCb62vH.png)
+![Example-OS](https://imgur.com/9WrruJR.png)
 
 ***
 
