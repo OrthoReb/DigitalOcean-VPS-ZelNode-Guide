@@ -60,7 +60,7 @@
 
 * **'Launch ZelCash' when prompted** 
 
-![Example-OS](https://imgur.com/E3NbrdO.png)
+![Example-OS](https://imgur.com/PbIIEt9.png)
 
 ***
 
