@@ -8,7 +8,7 @@
 
 **This guide will assist you in setting up a ZelNode on a DigitalOcean VPS running Ubuntu 18.04.5 x 64**
 
-**Use Goose's video guide in conjection with these steps to help answer any questions by clicking [here](https://www.youtube.com/watch?v=NNWgBzEl_TI)
+**Use Goose's video guide in conjection with these steps to help answer any questions by clicking [here](https://www.youtube.com/watch?v=NNWgBzEl_TI)**
 
 **If you require further assistance contact the support team on [Discord](https://discord.gg/szN9yZ) or [Telegram English](http://t.me/zelcash) / [Chinese](http://t.me/zelcashcn) / [Russian](http://t.me/zelcashru)**
 ***
