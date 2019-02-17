@@ -27,59 +27,59 @@
 
 ## Section A: Preparing your ZelCore wallet
 ***Step 1***
-* Open your ZelCore wallet and choose 'Test Coin' 
+* **Open your ZelCore wallet and choose 'Test Coin'** 
 
 ![Example-OS](https://imgur.com/kCb62vH.png)
 ***
 
 ***Step 2***
-* Click on 'Full Node' and then 'Launch Full Node'
+* **Click on 'Full Node' and then 'Launch Full Node'**
 
 ![Example-OS](https://imgur.com/YTUksqm.png)
 
-* 'Launch Test Coin' when prompted 
+* **'Launch Test Coin' when prompted** 
 
 ![Example-OS](https://imgur.com/E3NbrdO.png)
 ***
 
 ***Step 3***
-* Go into Tools after wallet is 100% synced
+* **Go into Tools after wallet is 100% synced**
 
 ![Example-OS](https://imgur.com/cCReOTt.png)
 ***
 
 ***Step 4***
-* Open ZelNodes Management
+* **Open ZelNodes Management**
 
 ![Example-OS](https://imgur.com/ApVw4AU.png)
 ***
 
 ***Step 5***
-* Setup ZelNodes
+* **Setup ZelNodes**
 
 ![Example-OS](https://imgur.com/eGZlrRC.png)
 ***
 
 ***Step 6***
-* Backup addresses
+* **Backup addresses**
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
 ***
 
 ***Step 7***
-* Set automatic logout to never
+* **Set automatic logout to never**
 
 ![Example-OS](https://imgur.com/g8niH0e.png)
 ***
 
 ***Step 8***
-* Continue to the next step after your zelcash.conf info is generated
+* **Continue to the next step after your zelcash.conf info is generated**
 
 ![Example-OS](https://imgur.com/RTfsbRM.png)
 ***
 
 ***Step 9***
-* Choose which type of ZelNode you are going to run
+* **Choose which type of ZelNode you are going to run**
 
 ![Example-OS](https://imgur.com/Q3a4MPV.png)
 ***
@@ -89,21 +89,22 @@
 
 ## Section B: Creating your DigitalOcean VPS
 ***Step 1***
-* Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit that's good for 2 months)
+* **Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit that's good for 2 months)**
 ***
 
 ***Step 2***
-* After you have your account setup go [here](https://cloud.digitalocean.com/droplets?i=8fe2ca&preserveScrollPosition=false) to create your ZelNode droplet
+* **After you have your account setup go [here](https://cloud.digitalocean.com/droplets?i=8fe2ca&preserveScrollPosition=false) to create your ZelNode droplet**
+
 ![Example-OS](https://imgur.com/WYFdC1j.png)
 ***
 
 ***Step 3***
-* Choose server type: Ubuntu 18.04
+* **Choose server type: Ubuntu 18.04**
 ![Example-OS](https://imgur.com/4hM9ugU.png)
 ***
 
 ***Step 4***
-* Choose Droplet (Basic/Super/BAMF)
+* **Choose Droplet (Basic/Super/BAMF)**
 
 ![Example-OS](https://imgur.com/sVaawzt.png) ![Example-OS](https://imgur.com/1hAuT2T.png) ![Example-OS](https://imgur.com/Yc3Wm7q.png)
 ***
@@ -121,11 +122,11 @@
 ## Section C: Downloading and Installing Putty
 
 ***Step 1***
-* Download Putty [here](https://www.putty.org/)
+* **Download Putty [here](https://www.putty.org/)**
 ***
 
 ***Step 2***
-* Select the correct installer depending upon your operating system, and follow the install instructions 
+* *Select the correct installer depending upon your operating system, and follow the install instructions** 
 
 ![Example-Putty Installer](https://imgur.com/U7eaNSh.png)
 ***
@@ -133,24 +134,24 @@
 ## Section D: Connecting the VPS and installing ZelNode script via Putty
 
 ***Step 1***
-* Copy your VPS IP (located within Droplets tab) 
+* **Copy your VPS IP (located within Droplets tab)**
 ![Example-DO](https://imgur.com/8YWMNxW.png)
 ***
 
 ***Step 2***
-* Open the Putty terminal and fill in the "Host Name" box with the IP address of your VPS
+* **Open the Putty terminal and fill in the "Host Name" box with the IP address of your VPS**
 
 ![Example-PuttyLogin](https://imgur.com/gMkd6fs.png)
 ***
 
 ***Step 3***
-* Once you have hit enter it will open a security alert (click yes)
+* **Once you have hit enter it will open a security alert (click yes)**
 
 ![Example-RootPassEnter](https://imgur.com/z0N2AMT.png)
 ***
 
 ***Step 4***
-* Type "root" as the login/username
+* **Type "root" as the login/username**
 
 ![Example-Root](https://imgur.com/DumQVJ5.png)
 ***
