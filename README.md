@@ -198,7 +198,9 @@
 ***
 
 ***Step 7*** 
-* **Enter password for root (UNIX password same as Step 5), make new password and confirm**
+* **Enter password for root (UNIX password same as Step 5)**
+
+* **Make new password and confirm**
 
 ![Example-RootPassEnter](https://imgur.com/vSXtaaG.png)
 
