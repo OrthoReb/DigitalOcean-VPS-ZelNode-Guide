@@ -12,7 +12,7 @@
 ***
 ## Requirements
 1) **ZEL Collateral (10K Basic / 25K Super / 100K BAMF)**
-2) **VPS running Linux Ubuntu 18.04** (benchmark requirements can't be guranteed for servers that the team hasn't tested)
+2) **VPS running Linux Ubuntu 18.04** (**benchmark requirements can't be guranteed for servers that the team hasn't tested)
 3) **Controller wallet (ZelCore or ZelCash Swing Wallet)**
 4) **SSH client such as [Putty](https://www.putty.org/)**
 ***
@@ -49,7 +49,7 @@
 ***
 
 ***Step 4***
-* **Go into Tools after wallet is 100% synced**
+* **Go into 'Tools' after wallet is 100% synced**
 
 ![Example-OS](https://imgur.com/cCReOTt.png)
 
@@ -70,40 +70,40 @@
 ***
 
 ***Step 7***
-* **Backup addresses**
+* **'Backup all addresses'**
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
 
 ***
 
 ***Step 8***
-* **Set automatic logout to never**
+* **Set automatic logout to 'Never'**
 
 ![Example-OS](https://imgur.com/g8niH0e.png)
 
 ***
 
 ***Step 9***
-* **Continue to the next step after your zelcash.conf info is generated**
+* **Continue to the next step after zelcash.conf info is generated**
 
 ![Example-OS](https://imgur.com/RTfsbRM.png)
 
 ***
 
 ***Step 10***
-* **Choose which type of ZelNode you are going to run**
+* **Choose which type of ZelNode you are going to set up**
 
 ![Example-OS](https://imgur.com/Q3a4MPV.png)
 
 ***
 
-***Proceed to the next section, but leave your ZelCore wallet open so that we can continue where we left off***
+***Proceed to the next section, leave ZelCore wallet open to continue setting up in future steps***
 
 ***
 
 ## Section B: Creating DigitalOcean VPS
 ***Step 1***
-* **Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit that's good for 2 months)**
+* **Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (**use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit that's good for 2 months)**
 
 ***
 
@@ -223,11 +223,11 @@
 
 ***Step 10***
 
-* Grant sudo permissions for your adduser by running the command below to activate it
+* **Grant sudo permissions for your adduser by running the command below to activate it
 
 `usermod -aG sudo YOURUSERNAME`
 
-* Switch to your new adduser with the following command
+* **Switch to your new adduser with the following command
 
 `su YOURUSERNAME`
 
@@ -235,76 +235,81 @@
 ***
 
 ***Step 11***
-* Paste the code below into the Putty terminal then press enter
+* **Paste the code below into the Putty terminal then press enter
 
 `sudo wget https://raw.githubusercontent.com/Goose-Tech/ZelNodeInstall/master/zelnode_install.sh && sudo chmod u+x zelnode_install.sh && sudo ./zelnode_install.sh`
 ***
 
 ***Step 12***
-* Enter your new username that we made in Step 8
+* **Enter your new username that we made in Step 8
 
 ![Example-installing](https://imgur.com/vuMGJ1s.png)
 ***
 
-***Step 13***
-* Go back to your ZelCore wallet and enter your IP address
+## Section E : Connecting and Starting ZelNode (**ZelCore and VPS)
+
+***Step 1*** **(ZelCore)
+* **Go back to your ZelCore wallet and enter your VPS IP address
 
 ![Example-installing](https://imgur.com/aPvgKI0.png)
 ***
 
-***Step 14***
-* Name your ZelNode 
+***Step 2*** **(ZelCore)
+* **Name your ZelNode 
 
 ![Example-installing](https://imgur.com/YspTi4J.png)
 ***
 
-***Step 15***
-* Save your private key that is generated in ZelCore and enter when prompted on your VPS 
+***Step 3*** **(ZelCore)
+* **Save your private key that is generated in ZelCore and enter on VPS when prompted  
 
 ![Example-installing](https://imgur.com/It7FQjW.png)
 ***
 
-***Step 16***
-* Confirm IP, enter 'N' that you're not running for mainnet and enter private key from Step 15
+***Step 4*** (**VPS)
+* **Confirm IP, enter 'N' that you're not running for mainnet and enter private key from Step 15
 
 ![Example-installing](https://imgur.com/WFXTDpg.png)
 ***
 
-***Step 17***
-* Proceed to the next step while you wait for the install (this will take a few mins)
+***Step 5***
+* **Proceed to the next step while you wait for the install (this will take a few mins)
 
-***Step 18***
-* Go to the ZelCash block explorer `https://testnetnodes.zel.cash/blocks`
+***Step 6***
+* **Go to the ZelCash block explorer 
+
+`https://testnetnodes.zel.cash/blocks`
 
 ![Example-installing](https://imgur.com/liBNF5O.png)
 ***
 
-***Step 19***
-* Press CTRL-C in your VPS when the blocks match explorer in Step 19
+***Step 7***
+* **Press CTRL-C in your VPS when the blocks match explorer in Step 19
 
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
 
-***Step 20***
-* Activate your ZelNode
+***Step 8*** **(ZelCore)
+* **Activate your ZelNode
 
 ![Example-installing](https://imgur.com/xyPmofR.png)
 
-* Successfully started 
+* **Successfully started will show if everything is done properly **('startzelnode local false' isn't needed)
 
 ![Example-installing](https://imgur.com/GGpcyFA.png)
 
 ***(IT WILL TAKE 15 CONFIRMATIONS FOR YOUR ZELNODE TO SHOW UP IN 'MY ZELNODES')***
 ***
 
-***Step 21***
-* Run the following command in Putty to confirm that your ZelNode is showing 'Status 4'
+***Step 9***
+* **Run the following command in VPS to confirm that your ZelNode is showing 'Status 4'
 
 `sudo zelcash-cli getzelnodestatus`
 
 ![Example-installing](https://imgur.com/nj76J7D.png)
 
-* You can also view your ZelNode on the block explorer `https://testnetnodes.zel.cash/zelnodes`
+* **You can also view your ZelNode on the block explorer `https://testnetnodes.zel.cash/zelnodes`
+
 ***(IT WILL SHOW UP AS 'PRE_ENABLED' UNTIL THERE ARE 15 CONFIRMATIONS)***
 
 ![Example-installing](https://imgur.com/SkGqa6D.png)
