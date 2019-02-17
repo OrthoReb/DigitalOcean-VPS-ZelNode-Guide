@@ -323,7 +323,7 @@
 
 ![Example-installing](https://imgur.com/SkGqa6D.png)
 
-**(IT WILL SHOW UP AS 'PRE_ENABLED' UNTIL THERE ARE 15 CONFIRMATIONS)**
+**(It will show up as 'PRE_ENABLED' after 15 confirmations)**
 
 ***
 
