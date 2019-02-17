@@ -12,7 +12,7 @@
 ***
 ## Requirements
 1) **ZEL Collateral (10K Basic / 25K Super / 100K BAMF)**
-2) **VPS running Linux Ubuntu 18.04 (benchmark requirements can't be guranteed for servers that the team hasn't tested)
+2) **VPS running Linux Ubuntu 18.04 (benchmark requirements can't be guranteed for servers that the team hasn't tested)**
 3) **Controller wallet (ZelCore or ZelCash Swing Wallet)**
 4) **SSH client such as [Putty](https://www.putty.org/)**
 ***
@@ -308,7 +308,7 @@
 
 ![Example-installing](https://imgur.com/GGpcyFA.png)
 
-***(IT WILL TAKE 15 CONFIRMATIONS FOR YOUR ZELNODE TO SHOW UP IN 'MY ZELNODES')***
+***(It will take 15 confirmations for your ZelNode to show up in 'MY ZELNODES')***
 ***
 
 ***Step 9***
@@ -323,7 +323,7 @@
 
 ![Example-installing](https://imgur.com/SkGqa6D.png)
 
-**(It will show up as 'PRE_ENABLED' after 15 confirmations)**
+**(It will show up as 'PRE_ENABLED' prior to 15 confirmations)**
 
 ***
 
