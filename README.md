@@ -321,8 +321,6 @@
 
 * **You can also view your ZelNode on the block explorer `https://testnetnodes.zel.cash/zelnodes`**
 
-***(IT WILL SHOW UP AS 'PRE_ENABLED' UNTIL THERE ARE 15 CONFIRMATIONS)***
-
 ![Example-installing](https://imgur.com/SkGqa6D.png)
 ***
 
