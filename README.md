@@ -259,32 +259,32 @@
 
 ***Step 2 (ZelCore)*** 
 
-* **Name your ZelNode 
+* **Name your ZelNode**
 
 ![Example-installing](https://imgur.com/YspTi4J.png)
 ***
 
 ***Step 3 (ZelCore)*** 
 
-* **Save your private key that is generated in ZelCore and enter on VPS when prompted  
+* **Save your private key that is generated in ZelCore and enter on VPS when prompted**  
 
 ![Example-installing](https://imgur.com/It7FQjW.png)
 ***
 
 ***Step 4  (VPS)***
 
-* **Confirm IP, enter 'N' that you're not running for mainnet and enter private key from Step 15
+* **Confirm IP, enter 'N' that you're not running for mainnet and enter private key from Step 15**
 
 ![Example-installing](https://imgur.com/WFXTDpg.png)
 ***
 
 ***Step 5***
 
-* **Proceed to the next step while you wait for the install (this will take a few mins)
+* **Proceed to the next step while you wait for the install (this will take a few mins)**
 
 ***Step 6***
 
-* **Go to the ZelCash block explorer 
+* **Go to the ZelCash block explorer** 
 
 `https://testnetnodes.zel.cash/blocks`
 
@@ -293,18 +293,18 @@
 
 ***Step 7***
 
-* **Press CTRL-C in your VPS when the blocks match explorer in Step 19
+* **Press CTRL-C in your VPS when the blocks match explorer in Step 19**
 
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
 
 ***Step 8 (ZelCore)*** 
 
-* **Activate your ZelNode
+* **Activate your ZelNode**
 
 ![Example-installing](https://imgur.com/xyPmofR.png)
 
-* **Successfully started will show if everything is done properly **('startzelnode local false' isn't needed)
+* **Successfully started will show if everything is done properly **('startzelnode local false' isn't needed)**
 
 ![Example-installing](https://imgur.com/GGpcyFA.png)
 
@@ -313,13 +313,13 @@
 
 ***Step 9***
 
-* **Run the following command in VPS to confirm that your ZelNode is showing 'Status 4'
+* **Run the following command in VPS to confirm that your ZelNode is showing 'Status 4'**
 
 `sudo zelcash-cli getzelnodestatus`
 
 ![Example-installing](https://imgur.com/nj76J7D.png)
 
-* **You can also view your ZelNode on the block explorer `https://testnetnodes.zel.cash/zelnodes`
+* **You can also view your ZelNode on the block explorer `https://testnetnodes.zel.cash/zelnodes`**
 
 ***(IT WILL SHOW UP AS 'PRE_ENABLED' UNTIL THERE ARE 15 CONFIRMATIONS)***
 
