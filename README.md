@@ -236,42 +236,42 @@
 
 ***Step 11***
 
-* **Paste the code below into the Putty terminal then press enter
+* **Paste the code below into the Putty terminal then press enter**
 
 `sudo wget https://raw.githubusercontent.com/Goose-Tech/ZelNodeInstall/master/zelnode_install.sh && sudo chmod u+x zelnode_install.sh && sudo ./zelnode_install.sh`
 ***
 
 ***Step 12***
 
-* **Enter your new username that we made in Step 8
+* **Enter your new username that we made in Step 8**
 
 ![Example-installing](https://imgur.com/vuMGJ1s.png)
 ***
 
 ## Section E : Connecting and Starting ZelNode (**ZelCore and VPS)
 
-***Step 1*** **(ZelCore)
+***Step 1 (ZelCore)*** 
 
 * **Go back to your ZelCore wallet and enter your VPS IP address
 
 ![Example-installing](https://imgur.com/aPvgKI0.png)
 ***
 
-***Step 2*** **(ZelCore)
+***Step 2 (ZelCore)*** 
 
 * **Name your ZelNode 
 
 ![Example-installing](https://imgur.com/YspTi4J.png)
 ***
 
-***Step 3*** **(ZelCore)
+***Step 3 (ZelCore)*** 
 
 * **Save your private key that is generated in ZelCore and enter on VPS when prompted  
 
 ![Example-installing](https://imgur.com/It7FQjW.png)
 ***
 
-***Step 4*** (**VPS)
+***Step 4  (VPS)***
 
 * **Confirm IP, enter 'N' that you're not running for mainnet and enter private key from Step 15
 
@@ -298,7 +298,7 @@
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
 
-***Step 8*** **(ZelCore)
+***Step 8 (ZelCore)*** 
 
 * **Activate your ZelNode
 
