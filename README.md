@@ -304,7 +304,7 @@
 
 ![Example-installing](https://imgur.com/xyPmofR.png)
 
-* **Successfully started will show if everything is done properly **('startzelnode local false' isn't needed)**
+* **Successfully started will show if everything is done properly ('startzelnode local false' isn't needed)**
 
 ![Example-installing](https://imgur.com/GGpcyFA.png)
 
