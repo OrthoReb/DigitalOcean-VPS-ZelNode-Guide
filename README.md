@@ -16,13 +16,16 @@
 2) **VPS running Linux Ubuntu 18.04** (benchmark requirements can't be guranteed for servers that the team hasn't tested)
 3) **Controller wallet (ZelCore or ZelCash Swing Wallet)**
 4) **SSH client such as [Putty](https://www.putty.org/)**
+
 ***
+
 ## Contents
-* **Section A**: Preparing your ZelCore wallet
-* **Section B**: Creating your [DigitalOCean](https://www.digitalocean.com/) VPS
-* **Section C**: Downloading and installing [Putty](https://www.putty.org/)
-* **Section D**: Connecting the VPS and installing ZelNode script via Putty
-* **Section E**: Connecting & starting your ZelNode
+* **Section A : Preparing your ZelCore wallet**
+* **Section B : Creating your [DigitalOCean](https://www.digitalocean.com/) VPS**
+* **Section C : Downloading and installing [Putty](https://www.putty.org/)**
+* **Section D : Connecting the VPS and installing ZelNode script via Putty**
+* **Section E : Connecting & starting your ZelNode**
+
 ***
 
 ## Section A: Preparing your ZelCore wallet
@@ -30,6 +33,7 @@
 * **Open your ZelCore wallet and choose 'Test Coin'** 
 
 ![Example-OS](https://imgur.com/kCb62vH.png)
+
 ***
 
 ***Step 2***
@@ -40,82 +44,99 @@
 * **'Launch Test Coin' when prompted** 
 
 ![Example-OS](https://imgur.com/E3NbrdO.png)
+
 ***
 
 ***Step 3***
 * **Go into Tools after wallet is 100% synced**
 
 ![Example-OS](https://imgur.com/cCReOTt.png)
+
 ***
 
 ***Step 4***
 * **Open ZelNodes Management**
 
 ![Example-OS](https://imgur.com/ApVw4AU.png)
+
 ***
 
 ***Step 5***
 * **Setup ZelNodes**
 
 ![Example-OS](https://imgur.com/eGZlrRC.png)
+
 ***
 
 ***Step 6***
 * **Backup addresses**
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
+
 ***
 
 ***Step 7***
 * **Set automatic logout to never**
 
 ![Example-OS](https://imgur.com/g8niH0e.png)
+
 ***
 
 ***Step 8***
 * **Continue to the next step after your zelcash.conf info is generated**
 
 ![Example-OS](https://imgur.com/RTfsbRM.png)
+
 ***
 
 ***Step 9***
 * **Choose which type of ZelNode you are going to run**
 
 ![Example-OS](https://imgur.com/Q3a4MPV.png)
+
 ***
 
 ***Proceed to the next section, but leave your ZelCore wallet open so that we can continue where we left off***
+
 ***
 
 ## Section B: Creating your DigitalOcean VPS
+
 ***Step 1***
 * **Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit that's good for 2 months)**
+
 ***
 
 ***Step 2***
 * **After you have your account setup go [here](https://cloud.digitalocean.com/droplets?i=8fe2ca&preserveScrollPosition=false) to create your ZelNode droplet**
 
 ![Example-OS](https://imgur.com/WYFdC1j.png)
+
 ***
 
 ***Step 3***
-* **Choose server type: Ubuntu 18.04**
+* **Choose server type: 'Ubuntu 18.04'**
 ![Example-OS](https://imgur.com/4hM9ugU.png)
+
 ***
 
 ***Step 4***
 * **Choose Droplet (Basic/Super/BAMF)**
 
 ![Example-OS](https://imgur.com/sVaawzt.png) ![Example-OS](https://imgur.com/1hAuT2T.png) ![Example-OS](https://imgur.com/Yc3Wm7q.png)
+
 ***
 
 ***Step 5***
 
 ![Example-Location](https://imgur.com/hjmZiaf.png)
+
 ***
 
 ***Step 6***
+
 ![Example-OS](https://imgur.com/qlYDSVn.png)
+
 ***
 
 
@@ -123,12 +144,14 @@
 
 ***Step 1***
 * **Download Putty [here](https://www.putty.org/)**
+
 ***
 
 ***Step 2***
 * *Select the correct installer depending upon your operating system, and follow the install instructions** 
 
 ![Example-Putty Installer](https://imgur.com/U7eaNSh.png)
+
 ***
 
 ## Section D: Connecting the VPS and installing ZelNode script via Putty
@@ -136,45 +159,53 @@
 ***Step 1***
 * **Copy your VPS IP (located within Droplets tab)**
 ![Example-DO](https://imgur.com/8YWMNxW.png)
+
 ***
 
 ***Step 2***
 * **Open the Putty terminal and fill in the "Host Name" box with the IP address of your VPS**
 
 ![Example-PuttyLogin](https://imgur.com/gMkd6fs.png)
+
 ***
 
 ***Step 3***
-* **Once you have hit enter it will open a security alert (click yes)**
+* **Once you hit 'Open' a security alert will be prompted (click yes)**
 
 ![Example-RootPassEnter](https://imgur.com/z0N2AMT.png)
+
 ***
 
 ***Step 4***
 * **Type "root" as the login/username**
 
 ![Example-Root](https://imgur.com/DumQVJ5.png)
+
 ***
 
 ***Step 5***
-* Copy the root password (check your email)
+* **Copy the root password that DigitalOcean emailed you**
+
 ***
 
 ***Step 6*** 
-* Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter)
+* **Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter)**
 
 ![Example-RootPassEnter](https://imgur.com/TqeHV2C.png)
+
 ***
 
 ***Step 7*** 
-* Change password for root (UNIX password same as Step 5)
+* **Change password for root (UNIX password same as Step 5)**
 
 ![Example-RootPassEnter](https://imgur.com/vSXtaaG.png)
+
 ***
 
 ***Step 8***
-* Adduser to secure your VPS, by adding a new username so you aren't running everything as root.  
-* Run the command below and use a username that you want associated with this server ***('whodatbamf1' is an example, you need to generate your own username).***  
+* **Adduser to secure your VPS, by adding a new username so you aren't running everything as root**  
+
+* **Run the command below and use a username that you want associated with this server ('whodatbamf1' is an example, you need to generate your own username)** 
 
 `adduser YOURUSERNAME`
 
@@ -184,7 +215,7 @@
 
 ***Step 9***
 
-* You will then need to make a new password associated with your new username.  Hit 'Enter' for the next 5 lines after your new password has been set, then 'Y' to save your information.
+* **You will then need to make a new password associated with your new username.  Hit 'Enter' for the next 5 lines after your new password has been set, then 'Y' to save your information.**
 
 ![Example-Bash](https://imgur.com/suf0D9Y.png)
 
