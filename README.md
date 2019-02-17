@@ -17,15 +17,15 @@
 4) **SSH client such as [Putty](https://www.putty.org/)**
 ***
 ## Contents
-* **Section A : Preparing your ZelCore wallet**
-* **Section B : Creating your [DigitalOCean](https://www.digitalocean.com/) VPS**
-* **Section C : Downloading and installing [Putty](https://www.putty.org/)**
-* **Section D : Connecting the VPS and installing ZelNode script via Putty**
-* **Section E : Connecting & starting your ZelNode**
+* **Section A : Preparing ZelCore Wallet**
+* **Section B : Creating [DigitalOCean](https://www.digitalocean.com/) VPS**
+* **Section C : Downloading and Installing [Putty](https://www.putty.org/)**
+* **Section D : Connecting VPS and Installing ZelNode Script**
+* **Section E : Connecting and Starting ZelNode**
 
 ***
 
-## Section A: Preparing your ZelCore wallet
+## Section A: Preparing ZelCore Wallet
 ***Step 1***
 * **Open your ZelCore wallet and choose 'Test Coin'** 
 
@@ -38,55 +38,59 @@
 
 ![Example-OS](https://imgur.com/YTUksqm.png)
 
+***
+
+**Step 3***
+
 * **'Launch Test Coin' when prompted** 
 
 ![Example-OS](https://imgur.com/E3NbrdO.png)
 
 ***
 
-***Step 3***
+***Step 4***
 * **Go into Tools after wallet is 100% synced**
 
 ![Example-OS](https://imgur.com/cCReOTt.png)
 
 ***
 
-***Step 4***
+***Step 5***
 * **Open ZelNodes Management**
 
 ![Example-OS](https://imgur.com/ApVw4AU.png)
 
 ***
 
-***Step 5***
+***Step 6***
 * **Setup ZelNodes**
 
 ![Example-OS](https://imgur.com/eGZlrRC.png)
 
 ***
 
-***Step 6***
+***Step 7***
 * **Backup addresses**
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
 
 ***
 
-***Step 7***
+***Step 8***
 * **Set automatic logout to never**
 
 ![Example-OS](https://imgur.com/g8niH0e.png)
 
 ***
 
-***Step 8***
+***Step 9***
 * **Continue to the next step after your zelcash.conf info is generated**
 
 ![Example-OS](https://imgur.com/RTfsbRM.png)
 
 ***
 
-***Step 9***
+***Step 10***
 * **Choose which type of ZelNode you are going to run**
 
 ![Example-OS](https://imgur.com/Q3a4MPV.png)
@@ -97,8 +101,7 @@
 
 ***
 
-## Section B: Creating your DigitalOcean VPS
-
+## Section B: Creating DigitalOcean VPS
 ***Step 1***
 * **Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit that's good for 2 months)**
 
@@ -151,7 +154,7 @@
 
 ***
 
-## Section D: Connecting the VPS and installing ZelNode script via Putty
+## Section D: Connecting VPS and Installing ZelNode Script
 
 ***Step 1***
 * **Copy your VPS IP (located within Droplets tab)**
