@@ -8,6 +8,8 @@
 
 **This guide will assist you in setting up a ZelNode on a DigitalOcean VPS running Ubuntu 18.04.5 x 64**
 
+**Use Goose's video guide in conjection with these steps to help answer any questions by clicking [here](https://www.youtube.com/watch?v=NNWgBzEl_TI)
+
 **If you require further assistance contact the support team on [Discord](https://discord.gg/szN9yZ) or [Telegram English](http://t.me/zelcash) / [Chinese](http://t.me/zelcashcn) / [Russian](http://t.me/zelcashru)**
 ***
 ## Requirements
@@ -243,6 +245,9 @@
 * **Paste the code below into the Putty terminal then press enter**
 
 `sudo wget https://raw.githubusercontent.com/Goose-Tech/ZelNodeInstall/master/zelnode_install.sh && sudo chmod u+x zelnode_install.sh && sudo ./zelnode_install.sh`
+***
+
+***HUGE SHOUTOUT TO GOOSE AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
 ***
 
 ***Step 12***
