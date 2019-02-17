@@ -172,7 +172,7 @@
 ***
 
 ***Step 3***
-* **Once you hit 'Open' a security alert will be prompted (click yes)**
+* **Once you hit 'Open' a security alert will open up (click yes)**
 
 ![Example-RootPassEnter](https://imgur.com/z0N2AMT.png)
 
