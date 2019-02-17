@@ -43,13 +43,20 @@
 ***
 
 ***Step 3***
-* **Click on 'Full Node' and then 'Launch Full Node'**
+* **Select 'Full Node'**
 
-![Example-OS](https://imgur.com/YTUksqm.png)
+![Example-OS](https://imgur.com/CXLLEth.png)
 
 ***
 
 ***Step 4***
+* **Select 'Launch Full Node'**
+
+![Example-OS](https://imgur.com/CXLLEth.png)
+
+***
+
+***Step 5***
 
 * **'Launch ZelCash' when prompted** 
 
@@ -57,49 +64,49 @@
 
 ***
 
-***Step 5***
+***Step 6***
 * **Go into 'Tools' after wallet is 100% synced**
 
 ![Example-OS](https://imgur.com/cCReOTt.png)
 
 ***
 
-***Step 6***
+***Step 7***
 * **Open ZelNodes Management**
 
 ![Example-OS](https://imgur.com/ApVw4AU.png)
 
 ***
 
-***Step 7***
+***Step 8***
 * **Setup ZelNodes**
 
 ![Example-OS](https://imgur.com/eGZlrRC.png)
 
 ***
 
-***Step 8***
+***Step 9***
 * **'Backup all addresses' (use a text file to save info, and store in multiple secure locations)**
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
 
 ***
 
-***Step 9***
+***Step 10***
 * **Set automatic logout to 'Never'**
 
 ![Example-OS](https://imgur.com/g8niH0e.png)
 
 ***
 
-***Step 10***
+***Step 11***
 * **Continue to the next step after zelcash.conf info is generated**
 
 ![Example-OS](https://imgur.com/RTfsbRM.png)
 
 ***
 
-***Step 11***
+***Step 12***
 * **Choose which type of ZelNode you are going to set up**
 
 ![Example-OS](https://imgur.com/Q3a4MPV.png)
