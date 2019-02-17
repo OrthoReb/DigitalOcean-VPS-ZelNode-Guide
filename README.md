@@ -27,7 +27,7 @@
 
 ## Section A: Preparing ZelCore Wallet
 ***Step 1***
-* **Open your ZelCore wallet and choose 'Test Coin' (Click My Assets and add Test Coin if not already displayed in Portfolio screen)**
+* **Open your ZelCore wallet and choose 'Test Coin' (Click 'My Assets' and add 'Test Coin' if not already displayed in Portfolio screen)**
 
 ![Example-OS](https://imgur.com/kCb62vH.png)
 
@@ -70,7 +70,7 @@
 ***
 
 ***Step 7***
-* **'Backup all addresses'**
+* **'Backup all addresses' (use a text file to save info, and store in multiple secure locations)**
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
 
@@ -130,6 +130,8 @@
 ***Step 5***
 
 ![Example-Location](https://imgur.com/hjmZiaf.png)
+
+**(Consider choosing a data center not near you to help decentralize the network. The location of the data center does not affect your rewards or setup process.)**
 
 ***
 
