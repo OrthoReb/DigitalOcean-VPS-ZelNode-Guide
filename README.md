@@ -222,7 +222,16 @@
 
 ***
 
-***Step 8***
+***Step 8*** 
+* **Update VPS with the following 2 commands**
+
+`sudo apt-get update`
+
+`sudo apt-get upgrade -y`
+
+***
+
+***Step 9***
 * **Adduser to secure your VPS, by adding a new username so you aren't running everything as root**  
 
 * **Run the command below and use a username that you want associated with this server ('whodatbamf1' is an example, you need to generate your own username)** 
@@ -233,7 +242,7 @@
 
 ***
 
-***Step 9***
+***Step 10***
 
 * **You will then need to make a new password associated with your new username.  Hit 'Enter' for the next 5 lines after your new password has been set, then 'Y' to save your information.**
 
@@ -241,30 +250,43 @@
 
 ***
 
-***Step 10***
+***Step 11***
 
 * **Grant sudo permissions for your adduser by running the command below to activate it**
 
 `usermod -aG sudo YOURUSERNAME`
 
-* **Switch to your new adduser with the following command**
-
-`su YOURUSERNAME`
-
-![Example-Bash](https://imgur.com/qYIK75u.png)
-***
-
-***Step 11***
-
-* **Paste the code below into the Putty terminal then press enter**
-
-`sudo wget https://raw.githubusercontent.com/Goose-Tech/ZelNodeInstall/master/zelnode_install.sh && sudo chmod u+x zelnode_install.sh && sudo ./zelnode_install.sh`
-***
-
-***HUGE SHOUTOUT TO GOOSE AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
 ***
 
 ***Step 12***
+
+* **Reboot server with the following command**
+
+`sudo reboot -n`
+
+* **Close Putty terminal while server reboots**
+
+***
+
+***Step 13***
+
+* **Log back into your VPS with the new username and password from Steps 9 and 10**
+
+***
+
+***Step 14***
+
+* **Paste the code below into the Putty terminal then press enter**
+
+`wget https://raw.githubusercontent.com/Goose-Tech/ZelNodeInstall/master/zelnode_install.sh && chmod u+x zelnode_install.sh && ./zelnode_install.sh`
+
+***
+
+***HUGE SHOUTOUT TO GOOSE AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
+
+***
+
+***Step 15***
 
 * **Enter your new username that we made in Step 8**
 
