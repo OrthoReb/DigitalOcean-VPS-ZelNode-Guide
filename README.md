@@ -288,7 +288,7 @@
 
 ***Step 15***
 
-* **Enter your new username that we made in Step 8**
+* **Enter your new username that we made in Step 9**
 
 ![Example-installing](https://imgur.com/vuMGJ1s.png)
 ***
