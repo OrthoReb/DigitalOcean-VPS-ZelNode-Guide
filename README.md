@@ -278,19 +278,13 @@
 
 * **Paste the code below into the Putty terminal then press enter**
 
-`wget https://raw.githubusercontent.com/Goose-Tech/ZelNodeInstall/master/zelnode_install.sh && chmod u+x zelnode_install.sh && ./zelnode_install.sh`
+`wget https://raw.githubusercontent.com/Goose-Tech/ZelNodeInstallv2/master/zelnodev2.sh && chmod +x zelnodev2.sh && ./zelnodev2.sh
+`
 
 ***
 
 ***HUGE SHOUTOUT TO GOOSE AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
 
-***
-
-***Step 15***
-
-* **Enter your new username that we made in Step 9**
-
-![Example-installing](https://imgur.com/vuMGJ1s.png)
 ***
 
 ## Section E : Connecting and Starting ZelNode (ZelCore and VPS)
@@ -318,9 +312,9 @@
 
 ***Step 4  (VPS)***
 
-* **Confirm IP, enter 'N' that you're not running for mainnet and enter private key from Step 15**
+* **Confirm IP and enter private key from Step 15**
 
-![Example-installing](https://imgur.com/WFXTDpg.png)
+![Example-installing](https://i.imgur.com/TFMP41b.jpg.png)
 ***
 
 ***Step 5***
