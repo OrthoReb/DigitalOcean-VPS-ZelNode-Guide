@@ -283,6 +283,12 @@
 
 ***
 
+***Step 15***
+
+* **Continue to the next section while the script inntalls
+
+***
+
 ***HUGE SHOUTOUT TO GOOSE AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
 
 ***
@@ -332,9 +338,11 @@
 ![Example-installing](https://imgur.com/liBNF5O.png)
 ***
 
-***Step 7***
+***Step 7 (VPS)***
 
-* **Press CTRL-C in your VPS when the blocks match explorer in Step 6**
+* **Press any key, then CTRL-C when the blocks match explorer in Step 6**
+
+![Example-installing](https://i.imgur.com/46H4YJn.jpg.png)
 
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
