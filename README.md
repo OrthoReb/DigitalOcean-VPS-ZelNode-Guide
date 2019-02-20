@@ -285,7 +285,7 @@
 
 ***Step 15***
 
-* **Continue to the next section while the script inntalls
+* **Continue to the next section while the script installs
 
 ***
 
