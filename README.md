@@ -325,7 +325,7 @@
 
 * **Go to the ZelCash block explorer** 
 
-`https://testnetnodes.zel.cash/blocks`
+`https://explorer.zel.cash/`
 
 ![Example-installing](https://imgur.com/liBNF5O.png)
 ***
@@ -358,7 +358,7 @@
 
 ![Example-installing](https://imgur.com/nj76J7D.png)
 
-* **You can also view your ZelNode on the block explorer `https://testnetnodes.zel.cash/zelnodes`**
+* **You can also view your ZelNode on the block explorer `https://explorer.zel.cash/zelnodes`**
 
 ![Example-installing](https://imgur.com/SkGqa6D.png)
 
