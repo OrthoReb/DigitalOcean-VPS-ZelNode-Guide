@@ -312,7 +312,7 @@
 
 ***Step 4  (VPS)***
 
-* **Confirm IP and enter private key from Step 15**
+* **Go back to Putty and confirm IP and enter private key from Step 3**
 
 ![Example-installing](https://i.imgur.com/TFMP41b.jpg.png)
 ***
@@ -320,6 +320,8 @@
 ***Step 5***
 
 * **Proceed to the next step while you wait for the install (this will take a few mins)**
+
+***
 
 ***Step 6***
 
@@ -332,7 +334,7 @@
 
 ***Step 7***
 
-* **Press CTRL-C in your VPS when the blocks match explorer in Step 19**
+* **Press CTRL-C in your VPS when the blocks match explorer in Step 6**
 
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
