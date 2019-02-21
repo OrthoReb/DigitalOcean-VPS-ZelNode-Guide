@@ -35,28 +35,33 @@
 
 ***
 
-***Step 2***
+***Step 2 (if necessary)***
+* **Download bootstrap file to drastically decrease sync time by clicking [here](https://github.com/zelcash/zelcash/wiki/Bootstrap-for-ZelNodes)**
+
+***
+
+***Step 3***
 * **Open your ZelCore wallet and choose 'ZelCash' (Click 'My Assets' and add 'ZelCash' if not already displayed in 'Portfolio' screen)**
 
 ![Example-OS](https://imgur.com/9WrruJR.png)
 
 ***
 
-***Step 3***
+***Step 4***
 * **'Full Node'**
 
 ![Example-OS](https://imgur.com/CXLLEth.png)
 
 ***
 
-***Step 4***
+***Step 5***
 * **'Launch Full Node'**
 
 ![Example-OS](https://imgur.com/EvEj6H2.png)
 
 ***
 
-***Step 5***
+***Step 6***
 
 * **'Launch ZelCash' when prompted** 
 
@@ -64,49 +69,49 @@
 
 ***
 
-***Step 6***
+***Step 7***
 * **Go into 'Tools' after wallet is 100% synced**
 
 ![Example-OS](https://imgur.com/uvqjVZ6.png)
 
 ***
 
-***Step 7***
+***Step 8***
 * **Open ZelNodes Management**
 
 ![Example-OS](https://imgur.com/ApVw4AU.png)
 
 ***
 
-***Step 8***
+***Step 9***
 * **Setup ZelNodes**
 
 ![Example-OS](https://imgur.com/eGZlrRC.png)
 
 ***
 
-***Step 9***
+***Step 10***
 * **'Backup all addresses' (use a text file to save info, and store in multiple secure locations)**
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
 
 ***
 
-***Step 10***
+***Step 11***
 * **Set automatic logout to 'Never'**
 
 ![Example-OS](https://imgur.com/g8niH0e.png)
 
 ***
 
-***Step 11***
+***Step 12***
 * **Continue to the next step after zelcash.conf info is generated**
 
 ![Example-OS](https://imgur.com/RTfsbRM.png)
 
 ***
 
-***Step 12***
+***Step 13***
 * **Choose which type of ZelNode you are going to set up**
 
 ![Example-OS](https://imgur.com/Q3a4MPV.png)
