@@ -279,6 +279,10 @@
 
 ***
 
+***DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!!***
+
+***
+
 ***Step 14***
 
 * **Paste the code below into the Putty terminal then press enter**
