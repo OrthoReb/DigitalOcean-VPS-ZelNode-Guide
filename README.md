@@ -279,7 +279,7 @@
 
 ***
 
-***DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!!***
+***DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!***
 
 ***
 
@@ -294,8 +294,7 @@
 
 ***Step 15***
 
-* **Continue to the next section while the script installs
-
+* **Continue to the next section while the script installs**
 ***
 
 ***HUGE SHOUTOUT TO GOOSE AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
