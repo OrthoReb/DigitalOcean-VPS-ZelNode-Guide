@@ -273,33 +273,6 @@
 
 ***
 
-***Step 13***
-
-* **Log back into your VPS with the new username and password from Steps 9 and 10**
-
-***
-
-***DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!***
-
-***
-
-***Step 14***
-
-* **Paste the code below into the Putty terminal then press enter**
-
-`sudo wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv2/master/zelnodev2.sh && sudo chmod u+x zelnode.sh && sudo ./zelnode.sh`
-
-***
-
-***Step 15***
-
-* **Continue to the next section while the script installs**
-***
-
-***HUGE SHOUTOUT TO GOOSE AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
-
-***
-
 ## Section E : Connecting and Starting ZelNode (ZelCore and VPS)
 
 ***Step 1 (ZelCore)*** 
@@ -323,6 +296,34 @@
 ![Example-installing](https://imgur.com/It7FQjW.png)
 ***
 
+***Step 4 (VPS)***
+
+* **Log back into your VPS with the new username and password from Steps 9 and 10**
+
+***
+
+***DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!***
+
+***
+
+***Step 5 (VPS)***
+
+* **Paste the code below into the Putty terminal then press enter**
+
+`sudo wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv2/master/zelnodev2.sh && sudo chmod u+x zelnode.sh && sudo ./zelnode.sh`
+
+***
+
+***Step 6***
+
+* **Continue to the next section while the script installs**
+***
+
+***HUGE SHOUTOUT TO GOOSE, SKYSLAYER AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
+
+***
+
+
 ***Step 4  (VPS)***
 
 * **Go back to Putty and confirm IP and enter private key from Step 3**
@@ -330,13 +331,13 @@
 ![Example-installing](https://i.imgur.com/TFMP41b.jpg.png)
 ***
 
-***Step 5***
+***Step 7***
 
 * **Proceed to the next step while you wait for the install (this will take a few mins)**
 
 ***
 
-***Step 6***
+***Step 8***
 
 * **Go to the ZelCash block explorer** 
 
@@ -345,7 +346,7 @@
 ![Example-installing](https://imgur.com/liBNF5O.png)
 ***
 
-***Step 7 (VPS)***
+***Step 8 (VPS)***
 
 * **Press any key, then CTRL-C when the blocks match explorer in Step 6**
 
@@ -354,7 +355,7 @@
 ![Example-installing](https://imgur.com/CqD1Kqa.png)
 ***
 
-***Step 8 (ZelCore)*** 
+***Step 9 (ZelCore)*** 
 
 * **Activate your ZelNode**
 
@@ -367,7 +368,7 @@
 ***(It will take 15 confirmations for your ZelNode to show up in 'MY ZELNODES')***
 ***
 
-***Step 9***
+***Step 10***
 
 * **Run the following command in VPS to confirm that your ZelNode is showing 'Status 4' (If VPS does not show successfully started, wait 5 minutes and run the command again. Repeat if necesary)**
 
