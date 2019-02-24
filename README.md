@@ -327,12 +327,6 @@
 
 ***Step 7***
 
-* **Proceed to the next step while you wait for the install (this will take a few mins)**
-
-***
-
-***Step 8***
-
 * **Go to the ZelCash block explorer** 
 
 `https://explorer.zel.cash/`
