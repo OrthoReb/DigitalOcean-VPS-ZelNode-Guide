@@ -298,7 +298,7 @@
 
 ***Step 4 (VPS)***
 
-* **Log back into your VPS with the new username and password from Steps 9 and 10**
+* **Log back into your VPS with the new username and password from Section D: Steps 9 and 10**
 
 ***
 
@@ -314,19 +314,13 @@
 
 ***
 
-***Step 6***
-
-* **Continue to the next section while the script installs**
-***
-
 ***HUGE SHOUTOUT TO GOOSE, SKYSLAYER AND DK808 FOR PUTTING TOGETHER THIS INSTALL SCRIPT***
 
 ***
 
+***Step 6  (VPS)***
 
-***Step 4  (VPS)***
-
-* **Go back to Putty and confirm IP and enter private key from Step 3**
+* **Confirm IP and enter private key from Step 3**
 
 ![Example-installing](https://i.imgur.com/TFMP41b.jpg.png)
 ***
