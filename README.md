@@ -287,8 +287,7 @@
 
 * **Paste the code below into the Putty terminal then press enter**
 
-`wget https://raw.githubusercontent.com/Goose-Tech/ZelNodeInstallv2/master/zelnodev2.sh && chmod +x zelnodev2.sh && ./zelnodev2.sh
-`
+`sudo wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv2/master/zelnodev2.sh && sudo chmod u+x zelnode.sh && sudo ./zelnode.sh`
 
 ***
 
