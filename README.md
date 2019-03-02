@@ -79,7 +79,7 @@
 ***Step 8***
 * **Open ZelNodes Management**
 
-![Example-OS](https://imgur.com/ApVw4AU.png)
+![Example-OS](https://imgur.com/J7TqUmN.png)
 
 ***
 
