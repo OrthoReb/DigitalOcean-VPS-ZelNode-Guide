@@ -310,7 +310,7 @@
 
 * **Paste the code below into the Putty terminal then press enter**
 
-`sudo wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv2/master/zelnodev2.sh && sudo chmod u+x zelnode.sh && sudo ./zelnode.sh`
+`wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv3/master/zelnodev3.sh && chmod +x zelnode.sh && ./zelnode.sh`
 
 ***
 
