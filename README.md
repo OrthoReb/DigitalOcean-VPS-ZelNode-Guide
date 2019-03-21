@@ -171,7 +171,7 @@
 ***
 
 ***Step 2***
-* *Select the correct installer depending upon your operating system, and follow the install instructions** 
+* **Select the correct installer depending upon your operating system, and follow the install instructions** 
 
 ![Example-Putty Installer](https://imgur.com/U7eaNSh.png)
 
