@@ -36,7 +36,7 @@
 ***
 
 ***Step 2***
-* **First time users of a ZEL full node need to download the bootstrap file to drastically decrease sync time by clicking [here](https://github.com/zelcash/zelcash/wiki/Bootstrap-for-ZelNodes)**
+* **First time users of a ZEL full node need to download the bootstrap file to decrease sync time by clicking [here](https://github.com/zelcash/zelcash/wiki/Bootstrap-for-ZelNodes)**
 
 ***
 
