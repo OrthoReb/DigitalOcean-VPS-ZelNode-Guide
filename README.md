@@ -267,7 +267,7 @@
 
 * **Reboot server with the following command**
 
-`sudo reboot -n`
+***`sudo reboot -n`***
 
 * **Close Putty terminal while server reboots**
 
@@ -302,7 +302,7 @@
 
 ***
 
-***<span style=“color:red;”>DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!</span>***
+***DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!***
 
 ***
 
@@ -310,7 +310,7 @@
 
 * **Paste the code below into the Putty terminal then press enter**
 
-* **`wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv3/master/zelnodev3.sh && chmod +x zelnode.sh && ./zelnode.sh`**
+***`wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv3/master/zelnodev3.sh && chmod +x zelnode.sh && ./zelnode.sh`***
 
 ***
 
@@ -367,7 +367,7 @@
 
 ***Step 8 (VPS)***
 
-* **Press any key, then CTRL-C when the blocks match explorer in Step 6**
+* **Press any key, then CTRL-C when the blocks match explorer in Step 7**
 
 ![Example-installing](https://i.imgur.com/wupgCAg.png)
 ***
@@ -376,11 +376,11 @@
 
 * **Run the following cmd, and proceed to Step 10 when you get 'not capable, hot node, waiting for remote activation'**
 
-* **`tail -F ~/.zelcash/debug.log`**
+***`tail -F ~/.zelcash/debug.log`***
 
 ![Example-installing](https://i.imgur.com/wupgCAg.png)
 
-* **Ctrl C to exit debug log screen** 
+***Ctrl C to exit debug log screen*** 
 ***
 
 ***Step 10 (ZelCore)*** 
@@ -389,7 +389,7 @@
 
 ![Example-installing](https://imgur.com/xyPmofR.png)
 
-* **Successfully started will show if everything is done properly ('startzelnode local false' isn't needed)**
+***Successfully started will show if everything is done properly ('startzelnode local false' isn't needed)***
 
 ![Example-installing](https://imgur.com/GGpcyFA.png)
 
@@ -400,7 +400,7 @@
 
 * **Run the following command in VPS to confirm that your ZelNode is showing 'Status 4' (If VPS does not show successfully started, wait 5 minutes and run the command again. Repeat if necesary)**
 
-`zelcash-cli getzelnodestatus`
+***`zelcash-cli getzelnodestatus`***
 
 ![Example-installing](https://imgur.com/nj76J7D.png)
 
@@ -408,7 +408,7 @@
 
 ![Example-installing](https://imgur.com/SkGqa6D.png)
 
-**(It will show up as 'PRE_ENABLED' prior to 15 confirmations)**
+***(It will show up as 'PRE_ENABLED' prior to 15 confirmations)***
 
 ***
 
