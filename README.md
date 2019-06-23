@@ -291,7 +291,7 @@
 
 ***Step 3 (ZelCore)*** 
 
-* **Save your private key that is generated in ZelCore and enter on VPS when prompted**  
+* **Save your ZELNODE KEY that is generated in ZelCore and enter on VPS when prompted**  
 
 ![Example-installing](https://imgur.com/It7FQjW.png)
 ***
@@ -310,7 +310,7 @@
 
 * **Paste the code below into the Putty terminal then press enter**
 
-`wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv3/master/zelnodev3.sh && chmod +x zelnode.sh && ./zelnode.sh`
+* **`wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv3/master/zelnodev3.sh && chmod +x zelnode.sh && ./zelnode.sh`**
 
 ***
 
@@ -320,19 +320,40 @@
 
 ***Step 6  (VPS)***
 
-* **Confirm IP and enter private key from Step 3**
+* **Confirm IP and enter ZELNODE KEY from Step 3**
 
-***JUST TYPE Y TO CONFIRM IP, DO NOT HIT ENTER AFTER, IF YOU DO IT WILL SKIP THE PRIVKEY PART***
+***DO NOT HIT ENTER AFTER YOU TYPE Y, IF YOU DO IT WILL SKIP THE ZELNODE KEY SECTION***
+***YOU WILL GET AN RCP ERROR AND HAVE TO ENTER IT IN THE CONF FILE MANUALLY***
 
-![Example-installing](https://i.imgur.com/TFMP41b.jpg.png)
+![Example-installing](https://i.imgur.com/Z5AOdGp.png)
 
-![Example-installing](https://i.imgur.com/0HASahW.pn)
+***BOOTSTRAP***
 
-![Example-installing](https://i.imgur.com/K2oEOcE.pn)
+![Example-installing](https://i.imgur.com/lKZgqz3.png)
 
-![Example-installing](https://i.imgur.com/2tqB4lV.pn)
+***SPROUT KEY***
 
-![Example-installing](https://i.imgur.com/Uc0nIQq.pn)
+![Example-installing](https://i.imgur.com/QeUPdF1.png)
+
+***PARAMS***
+
+![Example-installing](https://i.imgur.com/oAdIHVN.png)
+
+***1ST COUNTDOWN***
+
+![Example-installing](https://i.imgur.com/Dq7UKzQ.png)
+
+***STARTING DAEMON AND SYNCING ZELNODE WITH BLOCKCHAIN***
+
+![Example-installing](https://i.imgur.com/x7dHOa0.png)
+
+***2ND COUNTDOWN***
+
+![Example-installing](https://i.imgur.com/bvAEY5h.png)
+
+***WELCOME TO ZELNODES***
+
+![Example-installing](https://i.imgur.com/9QElZ5R.png)
 ***
 
 ***Step 7***
@@ -348,9 +369,7 @@
 
 * **Press any key, then CTRL-C when the blocks match explorer in Step 6**
 
-![Example-installing](https://i.imgur.com/gOoRiPv.pn)
-
-![Example-installing](https://i.imgur.com/MSaJCVk.pn)
+![Example-installing](https://i.imgur.com/wupgCAg.png)
 ***
 
 ***Step 9 (VPS)***
@@ -359,7 +378,7 @@
 
 * **`tail -F ~/.zelcash/debug.log`**
 
-![Example-installing](https://i.imgur.com/MSaJCVk.pn)
+![Example-installing](https://i.imgur.com/wupgCAg.png)
 
 * **Ctrl C to exit debug log screen** 
 ***
