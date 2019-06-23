@@ -355,7 +355,7 @@
 
 ***Step 9 (VPS)***
 
-* **Run the following cmd, and proceed to Step 10 when you get 'not capable, hot node, waiting for remote activation'
+* **Run the following cmd, and proceed to Step 10 when you get 'not capable, hot node, waiting for remote activation'**
 
 `tail -F ~/.zelcash/debug.log`
 
