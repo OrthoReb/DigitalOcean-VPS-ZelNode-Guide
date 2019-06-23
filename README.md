@@ -436,7 +436,7 @@
 
 ![Example-installing](https://imgur.com/SkGqa6D.png)
 
-***(It will show up as 'PRE_ENABLED' prior to 15 confirmations)***
+***(It will show up as 'PRE_ENABLED' for at least 3-4 hours, and could take up to 48 hrs for 1st reward)***
 
 ***
 
