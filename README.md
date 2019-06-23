@@ -36,11 +36,13 @@
 ***
 
 ***Step 2***
+
 ***First time users of a ZEL full node need to download the bootstrap file to decrease sync time by clicking [here](https://github.com/zelcash/zelcash/wiki/Bootstrap-for-ZelNodes)***
 
 ***
 
 ***Step 3***
+
 ***Open your ZelCore wallet and choose 'ZelCash' (Click 'My Assets' and add 'ZelCash' if not already displayed in 'Portfolio' screen)***
 
 ![Example-OS](https://imgur.com/9WrruJR.png)
@@ -48,6 +50,7 @@
 ***
 
 ***Step 4***
+
 ***'Full Node'***
 
 ![Example-OS](https://imgur.com/CXLLEth.png)
@@ -55,6 +58,7 @@
 ***
 
 ***Step 5***
+
 ***'Launch Full Node'***
 
 ![Example-OS](https://imgur.com/EvEj6H2.png)
@@ -70,6 +74,7 @@
 ***
 
 ***Step 7***
+
 ***Go into 'Tools' after wallet is 100% synced***
 
 ![Example-OS](https://imgur.com/uvqjVZ6.png)
@@ -77,6 +82,7 @@
 ***
 
 ***Step 8***
+
 ***Open ZelNodes Management***
 
 ![Example-OS](https://imgur.com/J7TqUmN.png)
@@ -84,6 +90,7 @@
 ***
 
 ***Step 9***
+
 ***Setup ZelNodes***
 
 ![Example-OS](https://imgur.com/eGZlrRC.png)
@@ -91,6 +98,7 @@
 ***
 
 ***Step 10***
+
 ***'Backup all addresses' (use a text file to save info, and store in multiple secure locations)***
 
 ![Example-OS](https://imgur.com/xdQYGOP.png)
@@ -98,6 +106,7 @@
 ***
 
 ***Step 11***
+
 ***Set automatic logout to 'Never'***
 
 ![Example-OS](https://imgur.com/g8niH0e.png)
@@ -105,6 +114,7 @@
 ***
 
 ***Step 12***
+
 ***Continue to the next step after zelcash.conf info is generated***
 
 ![Example-OS](https://imgur.com/RTfsbRM.png)
@@ -112,6 +122,7 @@
 ***
 
 ***Step 13***
+
 ***Choose which type of ZelNode you are going to set up***
 
 ![Example-OS](https://imgur.com/Q3a4MPV.png)
@@ -124,11 +135,13 @@
 
 ## Section B: Creating DigitalOcean VPS
 ***Step 1***
+
 ***Register at [DigitalOcean](https://m.do.co/c/c9c22684c5db) (use this [referral link](https://m.do.co/c/c9c22684c5db) to receive a $100 credit that's good for 2 months)***
 
 ***
 
 ***Step 2***
+
 ***After you have your account setup go [here](https://cloud.digitalocean.com/droplets?i=8fe2ca&preserveScrollPosition=false) to create your ZelNode droplet***
 
 ![Example-OS](https://imgur.com/WYFdC1j.png)
@@ -136,12 +149,14 @@
 ***
 
 ***Step 3***
+
 ***Choose server type: 'Ubuntu 18.04'***
 ![Example-OS](https://imgur.com/4hM9ugU.png)
 
 ***
 
 ***Step 4***
+
 ***Choose Droplet (Basic/Super/BAMF)***
 
 ![Example-OS](https://imgur.com/sVaawzt.png) ![Example-OS](https://imgur.com/1hAuT2T.png) ![Example-OS](https://imgur.com/Yc3Wm7q.png)
