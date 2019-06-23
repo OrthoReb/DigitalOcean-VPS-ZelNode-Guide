@@ -182,11 +182,13 @@
 ## Section C: Downloading and Installing Putty
 
 ***Step 1***
+
 ***Download Putty [here](https://www.putty.org/)***
 
 ***
 
 ***Step 2***
+
 ***Select the correct installer depending upon your operating system, and follow the install instructions***
 
 ![Example-Putty Installer](https://imgur.com/U7eaNSh.png)
@@ -196,12 +198,14 @@
 ## Section D: Connecting VPS and Installing ZelNode Script
 
 ***Step 1***
+
 ***Copy your VPS IP (located within Droplets tab)***
 ![Example-DO](https://imgur.com/8YWMNxW.png)
 
 ***
 
 ***Step 2***
+
 ***Open the Putty terminal and fill in the "Host Name" box with the IP address of your VPS***
 
 ![Example-PuttyLogin](https://imgur.com/gMkd6fs.png)
@@ -209,6 +213,7 @@
 ***
 
 ***Step 3***
+
 ***Once you hit 'Open' a security alert will open up (click yes)***
 
 ![Example-RootPassEnter](https://imgur.com/z0N2AMT.png)
@@ -216,6 +221,7 @@
 ***
 
 ***Step 4***
+
 ***Type "root" as the login/username***
 
 ![Example-Root](https://imgur.com/DumQVJ5.png)
@@ -223,11 +229,13 @@
 ***
 
 ***Step 5***
+
 ***Copy the root password that DigitalOcean emailed you***
 
 ***
 
 ***Step 6*** 
+
 ***Paste the password into the Putty terminal by right clicking (it will not show the password so just press enter)***
 
 ![Example-RootPassEnter](https://imgur.com/TqeHV2C.png)
@@ -235,6 +243,7 @@
 ***
 
 ***Step 7*** 
+
 ***Enter password for root (UNIX password same as Step 5)***
 
 ***Make new password and confirm***
@@ -244,6 +253,7 @@
 ***
 
 ***Step 8*** 
+
 ***Update VPS with the following 2 commands***
 
 ***`sudo apt-get update`***
@@ -253,6 +263,7 @@
 ***
 
 ***Step 9***
+
 ***Adduser to secure your VPS, by adding a new username so you aren't running everything as root***
 
 ***Run the command below and use a username that you want associated with this server ('whodatbamf1' is an example, you need to generate your own username)*** 
@@ -334,7 +345,7 @@
 
 ***
 
-***Step 6  (VPS)***
+***Step 6 (VPS)***
 
 ***Confirm IP and enter ZELNODE KEY from Step 3***
 
