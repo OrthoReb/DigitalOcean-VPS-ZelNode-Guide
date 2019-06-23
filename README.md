@@ -350,6 +350,7 @@
 ***Confirm IP and enter ZELNODE KEY from Step 3***
 
 ***DO NOT HIT ENTER AFTER YOU TYPE Y, IF YOU DO IT WILL SKIP THE ZELNODE KEY SECTION***
+
 ***YOU WILL GET AN RCP ERROR AND HAVE TO ENTER IT IN THE CONF FILE MANUALLY***
 
 ![Example-installing](https://i.imgur.com/Z5AOdGp.png)
