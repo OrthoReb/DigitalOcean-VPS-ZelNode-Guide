@@ -29,6 +29,7 @@
 
 ## Section A: Preparing ZelCore Wallet
 ***Step 1 (if necessary)***
+
 ***Download the current ZelCore wallet based on your OS by clicking [here](https://zelcore.io/#download)***
 
 ![Example-OS](https://imgur.com/u1cZQd9.png)
