@@ -337,7 +337,7 @@
 
 ***Paste the code below into the Putty terminal then press enter***
 
-***`wget -O zelnode.sh https://raw.githubusercontent.com/zelcash/ZelNodeInstallv3/master/zelnodev3.sh && chmod +x zelnode.sh && ./zelnode.sh`***
+***`wget https://apt.zel.cash/zelnodev4.0.sh && chmod +x zelnodev4.0.sh && ./zelnodev4.0.sh`***
 
 ***
 
@@ -388,7 +388,7 @@
 
 ***Go to the ZelCash block explorer*** 
 
-`https://explorer.zel.cash/`
+***`https://explorer.zel.cash/`***
 
 ![Example-installing](https://imgur.com/liBNF5O.png)
 ***
