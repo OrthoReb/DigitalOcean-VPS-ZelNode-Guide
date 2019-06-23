@@ -326,13 +326,13 @@
 
 ![Example-installing](https://i.imgur.com/TFMP41b.jpg.png)
 
-![Example-installing](https://i.imgur.com/0HASahW.png)
+![Example-installing](https://i.imgur.com/0HASahW.pn)
 
-![Example-installing](https://i.imgur.com/K2oEOcE.png)
+![Example-installing](https://i.imgur.com/K2oEOcE.pn)
 
-![Example-installing](https://i.imgur.com/2tqB4lV.png)
+![Example-installing](https://i.imgur.com/2tqB4lV.pn)
 
-![Example-installing](https://i.imgur.com/Uc0nIQq.png)
+![Example-installing](https://i.imgur.com/Uc0nIQq.pn)
 ***
 
 ***Step 7***
@@ -348,9 +348,9 @@
 
 * **Press any key, then CTRL-C when the blocks match explorer in Step 6**
 
-![Example-installing](https://i.imgur.com/gOoRiPv.png)
+![Example-installing](https://i.imgur.com/gOoRiPv.pn)
 
-![Example-installing](https://i.imgur.com/MSaJCVk.png)
+![Example-installing](https://i.imgur.com/MSaJCVk.pn)
 ***
 
 ***Step 9 (VPS)***
@@ -359,7 +359,7 @@
 
 * **`tail -F ~/.zelcash/debug.log`**
 
-![Example-installing](https://i.imgur.com/MSaJCVk.png)
+![Example-installing](https://i.imgur.com/MSaJCVk.pn)
 
 * **Ctrl C to exit debug log screen** 
 ***
