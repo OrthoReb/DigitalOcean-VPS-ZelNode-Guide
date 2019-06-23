@@ -302,7 +302,7 @@
 
 ***
 
-***DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!***
+***<span style=“color:red;”>DO NOT RUN THE INSTALL SCRIPT AS ROOT, ONLY RUN IT AS THE NEW USER THAT WAS MADE IN STEP 9!!!!!!!!!!!!!!!</span>***
 
 ***
 
