@@ -395,7 +395,7 @@
 
 ***Step 8 (VPS)***
 
-***Enter CTRL-C when the blocks match explorer in Step 7****
+***Enter CTRL-C when the blocks match explorer in Step 7***
 
 ![Example-installing](https://i.imgur.com/wupgCAg.png)
 ***
