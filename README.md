@@ -357,9 +357,11 @@
 
 * **Run the following cmd, and proceed to Step 10 when you get 'not capable, hot node, waiting for remote activation'**
 
-`tail -F ~/.zelcash/debug.log`
+* **`tail -F ~/.zelcash/debug.log`**
 
 ![Example-installing](https://i.imgur.com/MSaJCVk.png)
+
+* **Ctrl C to exit debug log screen** 
 ***
 
 ***Step 10 (ZelCore)*** 
