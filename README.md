@@ -322,7 +322,17 @@
 
 * **Confirm IP and enter private key from Step 3**
 
+***JUST TYPE Y TO CONFIRM IP, DO NOT HIT ENTER AFTER, IF YOU DO IT WILL SKIP THE PRIVKEY PART***
+
 ![Example-installing](https://i.imgur.com/TFMP41b.jpg.png)
+
+![Example-installing](https://i.imgur.com/0HASahW.png)
+
+![Example-installing](https://i.imgur.com/K2oEOcE.png)
+
+![Example-installing](https://i.imgur.com/2tqB4lV.png)
+
+![Example-installing](https://i.imgur.com/Uc0nIQq.png)
 ***
 
 ***Step 7***
@@ -338,12 +348,21 @@
 
 * **Press any key, then CTRL-C when the blocks match explorer in Step 6**
 
-![Example-installing](https://i.imgur.com/46H4YJn.jpg.png)
+![Example-installing](https://i.imgur.com/gOoRiPv.png)
 
-![Example-installing](https://imgur.com/CqD1Kqa.png)
+![Example-installing](https://i.imgur.com/MSaJCVk.png)
 ***
 
-***Step 9 (ZelCore)*** 
+***Step 9 (VPS)***
+
+* **Run the following cmd, and proceed to Step 10 when you get 'not capable, hot node, waiting for remote activation'
+
+`tail -F ~/.zelcash/debug.log`
+
+![Example-installing](https://i.imgur.com/MSaJCVk.png)
+***
+
+***Step 10 (ZelCore)*** 
 
 * **Activate your ZelNode**
 
@@ -356,7 +375,7 @@
 ***(It will take 15 confirmations for your ZelNode to show up in 'MY ZELNODES')***
 ***
 
-***Step 10***
+***Step 11***
 
 * **Run the following command in VPS to confirm that your ZelNode is showing 'Status 4' (If VPS does not show successfully started, wait 5 minutes and run the command again. Repeat if necesary)**
 
