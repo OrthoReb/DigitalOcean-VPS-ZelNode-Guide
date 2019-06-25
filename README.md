@@ -406,7 +406,7 @@
 
 ***`tail -F ~/.zelcash/debug.log`***
 
-![Example-installing](https://i.imgur.com/wupgCAg.png)
+![Example-installing](https://i.imgur.com/fAQdkIZ.png)
 
 ***Ctrl C to exit debug log screen*** 
 ***
