@@ -402,13 +402,11 @@
 
 ***Step 9 (VPS)***
 
-***Run the following cmd, and proceed to Step 10 when you get 'not capable, hot node, waiting for remote activation'***
+***Run the following cmd, and proceed to Step 10 when you get 'Synchronization finished'***
 
-***`tail -F ~/.zelcash/debug.log`***
+***`zelcash-cli znsync status`***
 
-![Example-installing](https://i.imgur.com/fAQdkIZ.png)
-
-***Ctrl C to exit debug log screen*** 
+![Example-installing](https://imgur.com/c0PWEl7.png) 
 ***
 
 ***Step 10 (ZelCore)*** 
